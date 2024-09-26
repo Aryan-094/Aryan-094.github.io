@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Aryan-094.github.io/static/css/main.bd8683b0.css",
+    "main.js": "/Aryan-094.github.io/static/js/main.cc6395db.js",
+    "static/js/453.88315836.chunk.js": "/Aryan-094.github.io/static/js/453.88315836.chunk.js",
+    "static/media/Radhika.jpg": "/Aryan-094.github.io/static/media/Radhika.4b638e5596f9a4d331cf.jpg",
+    "static/media/zomato_logo.png": "/Aryan-094.github.io/static/media/zomato_logo.f59ebc7158012c8ea390.png",
+    "static/media/Logo.jpg": "/Aryan-094.github.io/static/media/Logo.a206d4d3fed92639d38e.jpg",
+    "static/media/Khusbhu.jpg": "/Aryan-094.github.io/static/media/Khusbhu.e596ebdbc8a9dcd8442c.jpg",
+    "static/media/magicpin_logo.png": "/Aryan-094.github.io/static/media/magicpin_logo.cb83e514d2e29d8683b7.png",
+    "static/media/Aayushi.jpg": "/Aryan-094.github.io/static/media/Aayushi.e9771e590415cce79e49.jpg",
+    "static/media/images.jpeg": "/Aryan-094.github.io/static/media/images.274771bd225068af6179.jpeg",
+    "static/media/swiggy_logo.png": "/Aryan-094.github.io/static/media/swiggy_logo.977f115d6fefd37d4c64.png",
+    "static/media/eatsure_logo.png": "/Aryan-094.github.io/static/media/eatsure_logo.3897faf182a174daff58.png",
+    "index.html": "/Aryan-094.github.io/index.html",
+    "main.bd8683b0.css.map": "/Aryan-094.github.io/static/css/main.bd8683b0.css.map",
+    "main.cc6395db.js.map": "/Aryan-094.github.io/static/js/main.cc6395db.js.map",
+    "453.88315836.chunk.js.map": "/Aryan-094.github.io/static/js/453.88315836.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd8683b0.css",
+    "static/js/main.cc6395db.js"
+  ]
+}
