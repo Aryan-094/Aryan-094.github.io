@@ -7,9 +7,7 @@ const Rating = ({ rating }) => {
 
   return (
     <div className="flex items-center">
-      {/* Numeric Rating */}
       <span className="mr-2">{rating.toFixed(1)} / 10</span>
-      {/* Star Icons */}
       {[...Array(fullStars)].map((_, index) => (
         <span key={`full-${index}`} className="text-yellow-500">&#9733;</span>
       ))}
