@@ -1,6 +1,7 @@
 # 🥡 Food Price Comparison Website
 
 **Find the best deals on your favorite food by comparing prices from Swiggy, Zomato, Blinkit, Zepto, Dunzo, Eatsure, and more!**
+**https://aryan-094.github.io/**
 
 ## Overview
 
@@ -46,5 +47,4 @@ The Food Price Comparison Website currently supports the following food delivery
 If you have any feedback or suggestions, feel free to reach out! We value your input and are constantly working to improve the website.
 
 - **Email**: support@foodpricecompare.com
-- **Website**: [www.foodpricecompare.com](#)
-
+- **Website**: [Click here to visit our website](https://aryan-094.github.io/)
