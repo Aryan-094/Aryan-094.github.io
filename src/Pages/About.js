@@ -49,15 +49,8 @@ function About() {
           <h2 className="text-3xl font-semibold mb-4 text-center">Meet Our Team</h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
             {teamMembers.map((member, index) => (
-              <div
-                key={index}
-                className="bg-gray-800 rounded-lg p-4 text-center transition-transform transform hover:scale-105"
-              >
-                <img 
-                  src={member.image} 
-                  alt={member.name} 
-                  className="w-full h-64 rounded-lg object-cover mx-auto mb-4" 
-                />
+              <div key={index} className="bg-gray-800 rounded-lg p-4 text-center transition-transform transform hover:scale-105">
+                <img src={member.image} alt={member.name} className="w-full h-64 rounded-lg object-cover mx-auto mb-4"/>
                 <h3 className="text-xl font-semibold">{member.name}</h3>
                 <p className="text-gray-400">{member.designation}</p>
               </div>

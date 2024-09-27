@@ -11,21 +11,10 @@ const CityBanner = ({ show, onClose, onSelectCity }) => {
         <h2 className="text-2xl font-bold mb-4">Choose City</h2>
         <div className="grid grid-cols-2 gap-4">
           {cities.map(city => (
-            <button
-              key={city}
-              className="bg-gray-700 p-2 rounded"
-              onClick={() => onSelectCity(city)}
-            >
-              {city}
-            </button>
+            <button key={city} className="bg-gray-700 p-2 rounded" onClick={() => onSelectCity(city)}> {city} </button>
           ))}
         </div>
-        <button
-          onClick={onClose}
-          className="mt-4 bg-red-600 text-white px-4 py-2 rounded hover:bg-red-500"
-        >
-          Close
-        </button>
+        <button onClick={onClose} className="mt-4 bg-red-600 text-white px-4 py-2 rounded hover:bg-red-500"> Close </button>
       </div>
     </div>
   );

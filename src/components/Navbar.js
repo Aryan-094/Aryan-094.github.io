@@ -2,11 +2,11 @@ import React, { useContext, useState } from "react";
 import logo from "../assets/Logo.jpg";
 import { Link, useLocation } from "react-router-dom";
 import CityBanner from "./CityBanner";
-import { CityContext } from "./CityContext"; // Import the context
+import { CityContext } from "./CityContext"; 
 
 const Navbar = () => {
   const location = useLocation();
-  const { selectedCity, setSelectedCity } = useContext(CityContext); // Use context
+  const { selectedCity, setSelectedCity } = useContext(CityContext); 
   const [showBanner, setShowBanner] = useState(false);
 
   const handleBannerClose = () => {
@@ -14,7 +14,7 @@ const Navbar = () => {
   };
 
   const handleCitySelect = (city) => {
-    setSelectedCity(city); // Update selected city
+    setSelectedCity(city); 
     setShowBanner(false);
   };
 

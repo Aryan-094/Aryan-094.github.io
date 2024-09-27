@@ -16,13 +16,13 @@ const SearchBar = ({ onSearch }) => {
   const handleSearch = () => {
     if (inputValue.trim()) {
       onSearch(inputValue);
-      clearInput(); // Clear the input after searching
+      clearInput(); 
     }
   };
 
   const handleKeyDown = (e) => {
     if (e.key === "Enter") {
-      handleSearch(); // Call search function on Enter key
+      handleSearch(); 
     }
   };
 
@@ -38,7 +38,7 @@ const SearchBar = ({ onSearch }) => {
             placeholder="Search for food"
             value={inputValue}
             onChange={handleChange}
-            onKeyDown={handleKeyDown} // Add key down event listener
+            onKeyDown={handleKeyDown} 
           />
           {inputValue && (
             <FontAwesomeIcon
