@@ -7,7 +7,7 @@ const foodData = [
         address: "Chhatrapati Shivaji Maharaj Terminus, Mumbai",
         description: "Spicy potato filling served in a bread bun.",
         rating: 8.5,
-        image: "https://example.com/images/vadapav.jpg",
+        image: "https://thatdeliciousdish.com/wp-content/uploads/2019/04/Vada-Pav-Recipe-thumbnail.jpg",
         prices: {
             swiggy: 40,
             zomato: 45,
@@ -23,7 +23,7 @@ const foodData = [
         address: "Vile Parle, Mumbai",
         description: "Crispy hollow puris filled with spicy water.",
         rating: 9.0,
-        image: "https://example.com/images/panipuri.jpg",
+        image: "https://th.bing.com/th/id/OIP.pGdwZ1gWkQy6D6TwA7hOowHaE8?rs=1&pid=ImgDetMain",
         prices: {
             swiggy: 50,
             zomato: 55,
