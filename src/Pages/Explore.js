@@ -1,4 +1,4 @@
-import React, { useContext } from "react";
+import React, { useContext, useEffect } from "react";
 import { Link } from "react-router-dom";
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
@@ -9,6 +9,10 @@ import { CityContext } from "../components/CityContext";
 const Explore = () => {
   const { selectedCity } = useContext(CityContext); 
   const filteredFoodItems = foodData.filter(item => item.location === selectedCity); 
+
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
 
   return (
     <div className="bg-gray-900 min-h-screen text-white">

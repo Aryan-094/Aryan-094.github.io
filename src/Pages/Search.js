@@ -1,4 +1,4 @@
-import React, { useState, useContext } from "react";
+import React, { useState, useContext, useEffect } from "react";
 import { Link } from "react-router-dom"; 
 import Navbar from "../components/Navbar";
 import SearchBar from "../components/SearchBar";
@@ -21,6 +21,10 @@ const Search = () => {
     item.name.toLowerCase().includes(searchQuery.toLowerCase()) &&
     item.location === selectedCity 
   );
+
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
 
   return (
     <div className="bg-gray-900 min-h-screen text-white">

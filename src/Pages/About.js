@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect } from "react";
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
 import Abaddon from "../assets/images.jpeg"; 
@@ -30,6 +30,9 @@ const teamMembers = [
 ];
 
 function About() {
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
   return (
     <div className="bg-gray-900 min-h-screen text-white">
       <div className="min-h-[90vh]">
