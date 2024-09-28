@@ -1,8 +1,8 @@
 {
-  "name": "foodie-price-check",
-  "version": "0.1.0",
+  "name": "zayka-bazaar",
+  "version": "1.0.0",
   "private": true,
-  "homepage": "https://Aryan-094.github.io",
+  "homepage": "https://aryan-094.github.io",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.6.0",
     "@fortawesome/free-brands-svg-icons": "^6.6.0",
