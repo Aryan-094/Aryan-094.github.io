@@ -135,7 +135,7 @@ const foodData = [
         address: "Juhu, Mumbai",
         description: "Italian pasta with rich sauce and herbs.",
         rating: 9.3,
-        image: "https://example.com/images/pasta.jpg",
+        image: "https://imgs.search.brave.com/ep24edlRLCavmf_01LTXklKukQrIYKLwjA7Gg9XhoA8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvODU3/OTI3NzI2L3Bob3Rv/L3Bhc3RhLXdpdGgt/bWVhdC10b21hdG8t/c2F1Y2UtYW5kLXZl/Z2V0YWJsZXMuanBn/P3M9NjEyeDYxMiZ3/PTAmaz0yMCZjPTFi/Y29YY0JLTTdIYjFB/U3dlRHgtdmN3WEVn/eS1XckNHTTcxZFZQ/MkNwMHc9",
         prices: {
             swiggy: 220,
             zomato: 210,

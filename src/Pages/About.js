@@ -19,7 +19,7 @@ const teamMembers = [
   },
   {
     name: "Khusbhu Gandhi",
-    designation: "Documentation",
+    designation: "Technical Writer",
     image: khushbuImage, 
   },
   {
