@@ -39,7 +39,7 @@ const foodData = [
         address: "ITC Maurya, Chanakyapuri, Delhi",
         description: "Creamy tomato-based curry with marinated chicken.",
         rating: 9.5,
-        image: "https://example.com/images/butterchicken.jpg",
+        image: "https://feelgoodfoodie.net/wp-content/uploads/2024/02/Easy-Butter-Chicken-TIMG.jpg",
         prices: {
             swiggy: 300,
             zomato: 280,
@@ -55,7 +55,7 @@ const foodData = [
         address: "Lajpat Nagar, Delhi",
         description: "Spicy chickpeas served with deep-fried bread.",
         rating: 8.8,
-        image: "https://example.com/images/cholebhature.jpg",
+        image: "https://upload.wikimedia.org/wikipedia/commons/9/91/Chole_Bhature_At_Local_Street.jpg",
         prices: {
             swiggy: 180,
             zomato: 160,
@@ -71,7 +71,7 @@ const foodData = [
         address: "Banjara Hills, Hyderabad",
         description: "Fragrant rice dish cooked with spices and marinated meat.",
         rating: 9.2,
-        image: "https://example.com/images/hyderabadi_biryani.jpg",
+        image: "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/02/hyderabadi-biryani-with-chicken.jpg",
         prices: {
             swiggy: 500,
             zomato: 480,
@@ -87,7 +87,7 @@ const foodData = [
         address: "T. Nagar, Chennai",
         description: "Crispy rice crepe served with chutney.",
         rating: 8.0,
-        image: "https://example.com/images/dosa.jpg",
+        image: "https://i.ytimg.com/vi/CCab5oh0ZOc/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA730YKb2VkyJ2V4Q-R9cICWRXs9w",
         prices: {
             swiggy: 70,
             zomato: 75,
@@ -103,7 +103,7 @@ const foodData = [
         address: "Lalbagh Road, Bangalore",
         description: "Stuffed rice crepe with spiced potatoes.",
         rating: 9.0,
-        image: "https://example.com/images/masaladosa.jpg",
+        image: "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/masala-dosa-recipe.jpg",
         prices: {
             swiggy: 80,
             zomato: 85,
@@ -119,7 +119,7 @@ const foodData = [
         address: "Hauz Khas Village, Delhi",
         description: "Steamed dumplings filled with vegetables or meat.",
         rating: 8.7,
-        image: "https://example.com/images/momos.jpg",
+        image: "https://images.immediate.co.uk/production/volatile/sites/30/2021/04/Chicken-momos-1ed8358.jpg?quality=90&resize=556,505",
         prices: {
             swiggy: 120,
             zomato: 115,
@@ -151,7 +151,7 @@ const foodData = [
         address: "Park Street, Kolkata",
         description: "Fried pastry filled with spiced potatoes.",
         rating: 8.5,
-        image: "https://example.com/images/samosa.jpg",
+        image: "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/12/samosa-recipe.jpg",
         prices: {
             swiggy: 30,
             zomato: 28,
@@ -167,7 +167,7 @@ const foodData = [
         address: "Vile Parle, Mumbai",
         description: "Spicy vegetable mash served with buttered bread.",
         rating: 9.1,
-        image: "https://example.com/images/pavbhaji.jpg",
+        image: "https://i.pinimg.com/736x/9d/c9/15/9dc91554ce45e92f03aa59bb32b0dff6.jpg",
         prices: {
             swiggy: 100,
             zomato: 95,
@@ -183,7 +183,7 @@ const foodData = [
         address: "Chandni Chowk, Delhi",
         description: "Steamed savory cake made from fermented batter.",
         rating: 8.6,
-        image: "https://example.com/images/dhokla.jpg",
+        image: "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/12/khaman-dhokla-recipe.jpg",
         prices: {
             swiggy: 50,
             zomato: 55,
@@ -199,7 +199,7 @@ const foodData = [
         address: "New Market, Kolkata",
         description: "Roll with spiced meat or veggies wrapped in paratha.",
         rating: 9.0,
-        image: "https://example.com/images/kathiroll.jpg",
+        image: "https://www.indianhealthyrecipes.com/wp-content/uploads/2024/02/paneer-kathi-roll-recipe.jpg",
         prices: {
             swiggy: 90,
             zomato: 95,
@@ -215,7 +215,7 @@ const foodData = [
         address: "T. Nagar, Chennai",
         description: "Steamed rice cakes served with chutney.",
         rating: 8.2,
-        image: "https://example.com/images/idli.jpg",
+        image: "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/04/idli-recipe.jpg",
         prices: {
             swiggy: 60,
             zomato: 55,
@@ -231,7 +231,7 @@ const foodData = [
         address: "Banjara Hills, Hyderabad",
         description: "Spiced rice dish with marinated meat.",
         rating: 9.4,
-        image: "https://example.com/images/biryani.jpg",
+        image: "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/12/chicken-biryani.jpg",
         prices: {
             swiggy: 480,
             zomato: 460,
@@ -247,7 +247,7 @@ const foodData = [
         address: "Jasola, Delhi",
         description: "Grilled meat skewers marinated in spices.",
         rating: 9.2,
-        image: "https://example.com/images/kebab.jpg",
+        image: "https://cookingorgeous.com/wp-content/uploads/2021/06/lamb-shish-kebab-20.jpg",
         prices: {
             swiggy: 250,
             zomato: 240,
@@ -263,7 +263,7 @@ const foodData = [
         address: "Nungambakkam, Chennai",
         description: "Spicy chicken curry from Chettinad region.",
         rating: 9.1,
-        image: "https://example.com/images/chettinadchicken.jpg",
+        image: "https://www.whiskaffair.com/wp-content/uploads/2020/09/Chicken-Chettinad-Curry-2-3.jpg",
         prices: {
             swiggy: 350,
             zomato: 330,
@@ -279,7 +279,7 @@ const foodData = [
         address: "Indiranagar, Bangalore",
         description: "Soft steamed cakes made from semolina.",
         rating: 8.5,
-        image: "https://example.com/images/ravaidli.jpg",
+        image: "https://www.funfoodfrolic.com/wp-content/uploads/2020/07/Rava-Idli-Thumbnail.jpg",
         prices: {
             swiggy: 70,
             zomato: 75,
@@ -295,7 +295,7 @@ const foodData = [
         address: "Thyagaraja Nagar, Chennai",
         description: "Savory rice and lentil dish garnished with ghee.",
         rating: 8.3,
-        image: "https://example.com/images/pongal.jpg",
+        image: "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/01/pongal-ven-pongal-500x500.jpg",
         prices: {
             swiggy: 80,
             zomato: 85,
@@ -311,7 +311,7 @@ const foodData = [
         address: "Bhowanipore, Kolkata",
         description: "Baked wheat balls served with mashed vegetables.",
         rating: 8.7,
-        image: "https://example.com/images/littichokha.jpg",
+        image: "https://i0.wp.com/onewholesomemeal.com/wp-content/uploads/2020/01/Litti-Chokha.jpg?fit=580%2C725&ssl=1",
         prices: {
             swiggy: 120,
             zomato: 115,
@@ -327,7 +327,7 @@ const foodData = [
         address: "Marine Drive, Mumbai",
         description: "Traditional Indian ice cream made with milk and flavors.",
         rating: 9.0,
-        image: "https://example.com/images/kulfi.jpg",
+        image: "https://th.bing.com/th/id/OIP.iiuGDkM1ujhZqvh8sKJrwgHaFj?rs=1&pid=ImgDetMain",
         prices: {
             swiggy: 70,
             zomato: 65,
@@ -343,7 +343,7 @@ const foodData = [
         address: "Bandra, Mumbai",
         description: "Rolled paratha filled with vegetables or meat.",
         rating: 8.5,
-        image: "https://example.com/images/frankie.jpg",
+        image: "https://i.pinimg.com/736x/a8/77/f6/a877f68b2ebe87abd0bbc5765c82b547.jpg",
         prices: {
             swiggy: 90,
             zomato: 85,
@@ -359,7 +359,7 @@ const foodData = [
         address: "College Street, Kolkata",
         description: "Sweetened yogurt, a traditional Bengali dessert.",
         rating: 9.0,
-        image: "https://example.com/images/mishtidoi.jpg",
+        image: "https://sinfullyspicy.com/wp-content/uploads/2023/06/3-3.jpg",
         prices: {
             swiggy: 50,
             zomato: 45,
@@ -375,7 +375,7 @@ const foodData = [
         address: "Himayat Nagar, Hyderabad",
         description: "Green gram dosa served with chutney.",
         rating: 8.8,
-        image: "https://example.com/images/pesarattu.jpg",
+        image: "https://cookingfromheart.com/wp-content/uploads/2023/01/Pesrattu-Recipe.jpg",
         prices: {
             swiggy: 80,
             zomato: 75,
@@ -391,7 +391,7 @@ const foodData = [
         address: "Punjabi Bagh, Delhi",
         description: "Kidney beans in gravy served with rice.",
         rating: 9.2,
-        image: "https://example.com/images/rajmachawal.jpg",
+        image: "https://khaddoroshik.com/wp-content/uploads/2023/12/Rajma-Chawal3-1024x1024.webp",
         prices: {
             swiggy: 200,
             zomato: 190,
@@ -407,7 +407,7 @@ const foodData = [
         address: "Jayanagar, Bangalore",
         description: "Ragi balls served with spicy curry.",
         rating: 8.3,
-        image: "https://example.com/images/ragimudde.jpg",
+        image: "https://www.archanaskitchen.com/images/archanaskitchen/0-Archanas-Kitchen-Recipes/2017/20-sep/Karnataka_style_ragi_mudde_ragi_millet_flour_balls_recipe-2.jpg",
         prices: {
             swiggy: 60,
             zomato: 55,
@@ -423,7 +423,7 @@ const foodData = [
         address: "Chandni Chowk, Delhi",
         description: "Slow-cooked meat stew served with naan.",
         rating: 9.4,
-        image: "https://example.com/images/nihari.jpg",
+        image: "https://upload.wikimedia.org/wikipedia/commons/3/37/Mutton_Nihari.jpg",
         prices: {
             swiggy: 350,
             zomato: 330,
@@ -439,7 +439,7 @@ const foodData = [
         address: "Sanjeeva Reddy Nagar, Hyderabad",
         description: "Spiced rice dish made with aromatic spices.",
         rating: 8.9,
-        image: "https://example.com/images/bagararice.jpg",
+        image: "https://www.indianhealthyrecipes.com/wp-content/uploads/2024/06/bagara-rice-bagara-chawal.jpg",
         prices: {
             swiggy: 200,
             zomato: 190,
@@ -455,7 +455,7 @@ const foodData = [
         address: "Mallepally, Hyderabad",
         description: "Slow-cooked chicken with spices and herbs.",
         rating: 9.1,
-        image: "https://example.com/images/dumkachicken.jpg",
+        image: "https://i0.wp.com/www.happyandharried.com/wp-content/uploads/2017/07/HYDERABADI-DUM-KA-MURGH-HYDERABADI-SPICY-CHICKEN-CURRY-HAPPYHARRIED.jpg",
         prices: {
             swiggy: 400,
             zomato: 390,
@@ -471,7 +471,7 @@ const foodData = [
         address: "Indiranagar, Bangalore",
         description: "Crispy cauliflower in sweet and spicy sauce.",
         rating: 8.7,
-        image: "https://example.com/images/gobimanchurian.jpg",
+        image: "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/02/gobi-manchurian-cauliflower-manchurian.jpg",
         prices: {
             swiggy: 120,
             zomato: 115,
@@ -487,7 +487,7 @@ const foodData = [
         address: "Jayanagar, Bangalore",
         description: "Sweet semolina pudding flavored with saffron.",
         rating: 8.8,
-        image: "https://example.com/images/kesaribath.jpg",
+        image: "https://www.ticklingpalates.com/wp-content/uploads/2022/09/rava-kesari-recipe.jpg",
         prices: {
             swiggy: 80,
             zomato: 75,
@@ -503,7 +503,7 @@ const foodData = [
         address: "Kolkata, West Bengal",
         description: "Soft milk-based sweets from Bengal.",
         rating: 9.0,
-        image: "https://example.com/images/sandesh.jpg",
+        image: "https://upload.wikimedia.org/wikipedia/commons/9/9a/Bengali_Sandesh_-_1.jpg",
         prices: {
             swiggy: 50,
             zomato: 45,
@@ -519,7 +519,7 @@ const foodData = [
         address: "Kukatpally, Hyderabad",
         description: "Spicy green chili curry served with biryani.",
         rating: 8.5,
-        image: "https://example.com/images/mirchikasalan.jpg",
+        image: "https://i.ytimg.com/vi/Hhf5hRm6CCo/maxresdefault.jpg",
         prices: {
             swiggy: 90,
             zomato: 85,
@@ -535,7 +535,7 @@ const foodData = [
         address: "Connaught Place, Delhi",
         description: "Crispy spiral sweet soaked in sugar syrup.",
         rating: 9.2,
-        image: "https://example.com/images/jalebi.jpg",
+        image: "https://i1.wp.com/dishesandflavors.com/wp-content/uploads/2020/07/Jalebi.jpg?fit=4216%2C3162&ssl=1",
         prices: {
             swiggy: 40,
             zomato: 35,
@@ -551,7 +551,7 @@ const foodData = [
         address: "Ghatkopar, Mumbai",
         description: "Crispy puris topped with potatoes and chutneys.",
         rating: 8.6,
-        image: "https://example.com/images/sevpuri.jpg",
+        image: "https://www.spiceupthecurry.com/wp-content/uploads/2015/05/sev-puri-1.jpg",
         prices: {
             swiggy: 50,
             zomato: 55,
@@ -567,7 +567,7 @@ const foodData = [
         address: "Dadar, Mumbai",
         description: "Spicy curry served with bread rolls.",
         rating: 8.9,
-        image: "https://example.com/images/misal_pav.jpg",
+        image: "https://www.ohmyveg.co.uk/wp-content/uploads/2023/12/Misal-Pav-2-2-e1722869218662-720x720.jpg",
         prices: {
             swiggy: 150,
             zomato: 140,
@@ -583,7 +583,7 @@ const foodData = [
         address: "Juhu Beach, Mumbai",
         description: "Puffed rice mixed with vegetables and tangy sauce.",
         rating: 8.4,
-        image: "https://example.com/images/bhelpuri.jpg",
+        image: "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/09/bhel-puri.jpg",
         prices: {
             swiggy: 40,
             zomato: 38,
@@ -599,7 +599,7 @@ const foodData = [
         address: "Malad, Mumbai",
         description: "Savory snack made from coriander and gram flour.",
         rating: 8.5,
-        image: "https://example.com/images/kothimbir_vadi.jpg",
+        image: "https://shwetainthekitchen.com/wp-content/uploads/2020/04/IMG_8272-scaled.jpg",
         prices: {
             swiggy: 70,
             zomato: 65,
@@ -615,7 +615,7 @@ const foodData = [
         address: "Karol Bagh, Delhi",
         description: "Crispy puris filled with spicy tamarind water.",
         rating: 9.3,
-        image: "https://example.com/images/panipuri.jpg",
+        image: "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/sneha-archanaskitchen.com/Sweet__Spicy_Pineapple_Pani_Puri_Recipe_.jpg",
         prices: {
             swiggy: 50,
             zomato: 55,
@@ -631,7 +631,7 @@ const foodData = [
         address: "Madhapur, Hyderabad",
         description: "Succulent kebabs grilled to perfection.",
         rating: 9.4,
-        image: "https://example.com/images/kebab.jpg",
+        image: "https://cookingorgeous.com/wp-content/uploads/2021/06/lamb-shish-kebab-20.jpg",
         prices: {
             swiggy: 250,
             zomato: 240,
@@ -647,7 +647,7 @@ const foodData = [
         address: "Gachibowli, Hyderabad",
         description: "Slow-cooked chicken in aromatic spices.",
         rating: 9.5,
-        image: "https://example.com/images/dumkachicken.jpg",
+        image: "https://i.pinimg.com/originals/6f/5f/c1/6f5fc18d7ff4d00c7a09627e21c80545.jpg",
         prices: {
             swiggy: 400,
             zomato: 390,
@@ -663,7 +663,7 @@ const foodData = [
         address: "South Delhi, Delhi",
         description: "Marinated paneer cubes grilled with spices.",
         rating: 9.1,
-        image: "https://example.com/images/paneertikka.jpg",
+        image: "https://www.cookwithmanali.com/wp-content/uploads/2015/07/Restaurant-Style-Recipe-Paneer-Tikka-500x500.jpg",
         prices: {
             swiggy: 180,
             zomato: 175,
@@ -679,7 +679,7 @@ const foodData = [
         address: "Paharganj, Delhi",
         description: "Spicy potato cutlets served with chutney.",
         rating: 8.9,
-        image: "https://example.com/images/aloootikki.jpg",
+        image: "https://www.seriouseats.com/thmb/iGjj5YgyBmeLcPb9KAB_h46SZZQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20220303-aloo-tikki-vicky-wasik-24-6895c79edeee4e618e5fc7a1d39e85a0.jpg",
         prices: {
             swiggy: 60,
             zomato: 55,
@@ -695,7 +695,7 @@ const foodData = [
         address: "Secunderabad, Hyderabad",
         description: "Famous biryani made with basmati rice and spices.",
         rating: 9.5,
-        image: "https://example.com/images/hyderabadi_biryani.jpg",
+        image: "https://th.bing.com/th/id/OIP.cay8GxGS967DpnDHI05LmgHaE5?rs=1&pid=ImgDetMain",
         prices: {
             swiggy: 500,
             zomato: 480,
@@ -711,7 +711,7 @@ const foodData = [
         address: "Connaught Place, Delhi",
         description: "Spicy and tangy street snack with various toppings.",
         rating: 9.2,
-        image: "https://example.com/images/chaat.jpg",
+        image: "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_1:1/k%2FEdit%2F2023-03-papdi-chaat%2Fpapdi-chaat-01",
         prices: {
             swiggy: 70,
             zomato: 65,
@@ -727,7 +727,7 @@ const foodData = [
         address: "Mylapore, Chennai",
         description: "Spicy chicken curry from Chettinad region.",
         rating: 9.3,
-        image: "https://example.com/images/chettinadchicken.jpg",
+        image: "https://www.whiskaffair.com/wp-content/uploads/2020/09/Chicken-Chettinad-Curry-2-3.jpg",
         prices: {
             swiggy: 350,
             zomato: 330,
@@ -743,7 +743,7 @@ const foodData = [
         address: "Jayanagar, Bangalore",
         description: "Spicy fish curry made with coconut and spices.",
         rating: 8.8,
-        image: "https://example.com/images/mangalorean_fish_curry.jpg",
+        image: "https://nishkitchen.com/wp-content/uploads/2022/05/Mangalorean-Fish-Curry-1B.jpg",
         prices: {
             swiggy: 400,
             zomato: 380,
@@ -759,7 +759,7 @@ const foodData = [
         address: "Andheri, Mumbai",
         description: "Crispy puris topped with chutney and sev.",
         rating: 8.6,
-        image: "https://example.com/images/sevpuri.jpg",
+        image: "https://i2.wp.com/ahappytreat.com/wp-content/uploads/2017/04/DSC_0911.jpg?fit=6000%2C4000&ssl=1",
         prices: {
             swiggy: 40,
             zomato: 38,
@@ -775,7 +775,7 @@ const foodData = [
         address: "Chandni Chowk, Delhi",
         description: "Spiced potato snack served with chutney.",
         rating: 8.7,
-        image: "https://example.com/images/alooc.jpg",
+        image: "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/07/aloo-chaat-recipe.jpg",
         prices: {
             swiggy: 50,
             zomato: 55,
@@ -791,7 +791,7 @@ const foodData = [
         address: "Malkajgiri, Hyderabad",
         description: "Slow-cooked meat and lentil stew.",
         rating: 9.0,
-        image: "https://example.com/images/haleem.jpg",
+        image: "https://www.thedeliciouscrescent.com/wp-content/uploads/2020/08/Haleem-6.jpg",
         prices: {
             swiggy: 250,
             zomato: 240,
@@ -807,7 +807,7 @@ const foodData = [
         address: "Bhowanipore, Kolkata",
         description: "Steamed hilsa fish cooked with mustard paste.",
         rating: 9.4,
-        image: "https://example.com/images/bhapailish.jpg",
+        image: "http://www.scratchingcanvas.com/wp-content/uploads/2018/08/Ilish-Bhaape.4.jpg",
         prices: {
             swiggy: 600,
             zomato: 580,
@@ -823,7 +823,7 @@ const foodData = [
         address: "Connaught Place, Delhi",
         description: "Crispy dosa made with semolina.",
         rating: 8.8,
-        image: "https://example.com/images/ravadosa.jpg",
+        image: "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/05/rava-dosa-recipe.jpg",
         prices: {
             swiggy: 80,
             zomato: 75,
@@ -839,7 +839,7 @@ const foodData = [
         address: "Chandni Chowk, Delhi",
         description: "Rice pudding flavored with cardamom and nuts.",
         rating: 9.0,
-        image: "https://example.com/images/kheer.jpg",
+        image: "https://shivanilovesfood.com/wp-content/uploads/2024/01/Creamy-Kheer-4.jpg",
         prices: {
             swiggy: 70,
             zomato: 65,
@@ -855,7 +855,7 @@ const foodData = [
         address: "Punjabi Bagh, Delhi",
         description: "Grilled chicken marinated in spices.",
         rating: 9.4,
-        image: "https://example.com/images/tandoorichicken.jpg",
+        image: "https://www.theloveofspice.com/wp-content/uploads/2022/07/tandoori-chicken.jpg",
         prices: {
             swiggy: 300,
             zomato: 290,
@@ -871,7 +871,7 @@ const foodData = [
         address: "Malad, Mumbai",
         description: "Stir-fried okra with spices.",
         rating: 8.8,
-        image: "https://example.com/images/bhindimasala.jpg",
+        image: "https://mygoodfoodworld.com/wp-content/uploads/2023/01/bhindi-masala-served.jpg",
         prices: {
             swiggy: 120,
             zomato: 115,
@@ -887,7 +887,7 @@ const foodData = [
         address: "Karol Bagh, Delhi",
         description: "Spicy chickpeas served with fried bread.",
         rating: 9.1,
-        image: "https://example.com/images/cholebhature.jpg",
+        image: "https://img.freepik.com/free-photo/chole-bhature-is-north-indian-food-dish-combination-chana-masala-bhatura-puri_466689-95488.jpg?w=1380&t=st=1673370288~exp=1673370888~hmac=abb84999e29d8eb31099925ae516add19584be146862966b23a2aeda0c22b14d",
         prices: {
             swiggy: 120,
             zomato: 115,
@@ -903,7 +903,7 @@ const foodData = [
         address: "Bangalore South, Bangalore",
         description: "Comfort food made with rice and lentils.",
         rating: 8.5,
-        image: "https://example.com/images/khichdi.jpg",
+        image: "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/05/khichdi-recipe.webp",
         prices: {
             swiggy: 70,
             zomato: 65,
@@ -919,7 +919,7 @@ const foodData = [
         address: "Connaught Place, Delhi",
         description: "Spiced potato-filled pastry.",
         rating: 9.0,
-        image: "https://example.com/images/samosa.jpg",
+        image: "https://th.bing.com/th/id/OIP.TAN_v_sXzutxtTbNiqHkQwHaHa?w=550&h=550&rs=1&pid=ImgDetMain",
         prices: {
             swiggy: 50,
             zomato: 45,
@@ -935,7 +935,7 @@ const foodData = [
         address: "Saket, Delhi",
         description: "Whole wheat flatbread baked in a tandoor.",
         rating: 8.9,
-        image: "https://example.com/images/tandooriroti.jpg",
+        image: "https://www.cookwithmanali.com/wp-content/uploads/2021/07/Tandoori-Roti.jpg",
         prices: {
             swiggy: 20,
             zomato: 18,
@@ -951,7 +951,7 @@ const foodData = [
         address: "Mylapore, Chennai",
         description: "Flavorful rice dish with spices and meat.",
         rating: 9.2,
-        image: "https://example.com/images/biryani.jpg",
+        image: "https://www.cubesnjuliennes.com/wp-content/uploads/2020/07/Chicken-Biryani-Recipe.jpg",
         prices: {
             swiggy: 300,
             zomato: 290,
@@ -967,7 +967,7 @@ const foodData = [
         address: "Pitampura, Delhi",
         description: "Creamy paneer dish with rich spices.",
         rating: 9.0,
-        image: "https://example.com/images/paneer_butter_masala.jpg",
+        image: "https://www.cookwithmanali.com/wp-content/uploads/2019/05/Paneer-Butter-Masala.jpg",
         prices: {
             swiggy: 250,
             zomato: 240,
@@ -983,7 +983,7 @@ const foodData = [
         address: "Dadar, Mumbai",
         description: "Deep-fried dough balls soaked in sugar syrup.",
         rating: 9.5,
-        image: "https://example.com/images/gulab_jamun.jpg",
+        image: "https://bakewithzoha.com/wp-content/uploads/2023/04/gulab-jamun-featured.jpg",
         prices: {
             swiggy: 80,
             zomato: 75,
@@ -999,7 +999,7 @@ const foodData = [
         address: "Karol Bagh, Delhi",
         description: "Crispy puris filled with yogurt and spices.",
         rating: 9.2,
-        image: "https://example.com/images/dahi_puri.jpg",
+        image: "https://ministryofcurry.com/wp-content/uploads/2022/07/Dahi-Puri_-3.jpg",
         prices: {
             swiggy: 60,
             zomato: 55,
@@ -1015,7 +1015,7 @@ const foodData = [
         address: "Banjara Hills, Hyderabad",
         description: "Aromatic basmati rice cooked with vegetables.",
         rating: 8.8,
-        image: "https://example.com/images/veg_biryani.jpg",
+        image: "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/09/veg-biryani-vegetable-biryani.jpg",
         prices: {
             swiggy: 220,
             zomato: 210,
@@ -1031,7 +1031,7 @@ const foodData = [
         address: "Indiranagar, Bangalore",
         description: "Traditional sweet made from gram flour and ghee.",
         rating: 9.3,
-        image: "https://example.com/images/mysore_pak.jpg",
+        image: "https://static.toiimg.com/thumb/53376135.cms?imgsize=204335&width=800&height=800",
         prices: {
             swiggy: 100,
             zomato: 95,
@@ -1047,7 +1047,7 @@ const foodData = [
         address: "Connaught Place, Delhi",
         description: "Red kidney beans served with rice.",
         rating: 8.6,
-        image: "https://example.com/images/rajma_chawal.jpg",
+        image: "https://pbs.twimg.com/media/FsETLY2WwAAR3AA.jpg",
         prices: {
             swiggy: 140,
             zomato: 135,
@@ -1063,7 +1063,7 @@ const foodData = [
         address: "T Nagar, Chennai",
         description: "Savory rice and lentil dish.",
         rating: 9.1,
-        image: "https://example.com/images/pongal.jpg",
+        image: "https://recipes.timesofindia.com/photo/61051454.cms",
         prices: {
             swiggy: 90,
             zomato: 85,
@@ -1079,7 +1079,7 @@ const foodData = [
         address: "Versova, Mumbai",
         description: "Mix of rice and lentils, comfort food.",
         rating: 8.5,
-        image: "https://example.com/images/khichdi.jpg",
+        image: "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/05/khichdi-recipe.webp",
         prices: {
             swiggy: 70,
             zomato: 65,
@@ -1095,7 +1095,7 @@ const foodData = [
         address: "Marina Beach, Chennai",
         description: "Lentil soup with vegetables and spices.",
         rating: 8.7,
-        image: "https://example.com/images/sambar.jpg",
+        image: "https://ministryofcurry.com/wp-content/uploads/2023/05/sambar-7.jpg",
         prices: {
             swiggy: 80,
             zomato: 75,
@@ -1111,7 +1111,7 @@ const foodData = [
         address: "Saket, Delhi",
         description: "Steamed dumplings filled with vegetables.",
         rating: 9.0,
-        image: "https://example.com/images/momos.jpg",
+        image: "https://images.immediate.co.uk/production/volatile/sites/30/2021/04/Chicken-momos-1ed8358.jpg?quality=90&resize=556,505",
         prices: {
             swiggy: 100,
             zomato: 95,
@@ -1127,7 +1127,7 @@ const foodData = [
         address: "Marine Drive, Mumbai",
         description: "Crispy dough with yogurt and chutneys.",
         rating: 8.8,
-        image: "https://example.com/images/chaat_papri.jpg",
+        image: "http://brooklyndelhi.com/cdn/shop/articles/IMG_6962.jpg?v=1691427054",
         prices: {
             swiggy: 60,
             zomato: 55,
@@ -1143,7 +1143,7 @@ const foodData = [
         address: "Park Street, Kolkata",
         description: "Wrap with spiced meat and veggies.",
         rating: 9.4,
-        image: "https://example.com/images/kathi_roll.jpg",
+        image: "https://digiskynet.com/wp-content/uploads/2022/05/Paneer-kathi-Roll-Featured-1.jpg",
         prices: {
             swiggy: 120,
             zomato: 115,
@@ -1159,7 +1159,7 @@ const foodData = [
         address: "Borivali, Mumbai",
         description: "Crispy puris topped with chutney and sev.",
         rating: 8.6,
-        image: "https://example.com/images/sev_puri.jpg",
+        image: "https://www.spiceupthecurry.com/wp-content/uploads/2015/05/sev-puri-1.jpg",
         prices: {
             swiggy: 40,
             zomato: 38,
@@ -1175,7 +1175,7 @@ const foodData = [
         address: "Nehru Place, Delhi",
         description: "Rich and creamy chicken curry.",
         rating: 9.5,
-        image: "https://example.com/images/butter_chicken.jpg",
+        image: "https://feelgoodfoodie.net/wp-content/uploads/2024/02/Easy-Butter-Chicken-TIMG.jpg",
         prices: {
             swiggy: 350,
             zomato: 340,
@@ -1191,7 +1191,7 @@ const foodData = [
         address: "Kolkata Downtown, Kolkata",
         description: "Baked wheat balls served with mashed vegetables.",
         rating: 9.0,
-        image: "https://example.com/images/litti_chokha.jpg",
+        image: "https://i0.wp.com/onewholesomemeal.com/wp-content/uploads/2020/01/Litti-Chokha.jpg?fit=580%2C725&ssl=1",
         prices: {
             swiggy: 160,
             zomato: 155,
@@ -1207,7 +1207,7 @@ const foodData = [
         address: "Rajouri Garden, Delhi",
         description: "Traditional yogurt-based drink.",
         rating: 8.9,
-        image: "https://example.com/images/lassi.jpg",
+        image: "https://media.bluediamond.com/uploads/2023/01/24175942/14_Dairy-Free_Mango_Lassi-2430x1620.jpg",
         prices: {
             swiggy: 50,
             zomato: 48,
@@ -1223,7 +1223,7 @@ const foodData = [
         address: "Anna Nagar, Chennai",
         description: "Steamed rice cakes served with chutney.",
         rating: 8.5,
-        image: "https://example.com/images/idli.jpg",
+        image: "https://www.thestatesman.com/wp-content/uploads/2019/04/idli.jpg",
         prices: {
             swiggy: 40,
             zomato: 38,
@@ -1239,7 +1239,7 @@ const foodData = [
         address: "Koramangala, Bangalore",
         description: "Semolina-based steamed cake.",
         rating: 8.7,
-        image: "https://example.com/images/rava_idli.jpg",
+        image: "https://www.cookshideout.com/wp-content/uploads/2012/06/Rava-Idli-using-Instant-Mix-FI-1024x1024.jpg",
         prices: {
             swiggy: 50,
             zomato: 45,
@@ -1255,7 +1255,7 @@ const foodData = [
         address: "Gachibowli, Hyderabad",
         description: "Slow-cooked meat and lentil stew.",
         rating: 9.3,
-        image: "https://example.com/images/haleem.jpg",
+        image: "https://www.thedeliciouscrescent.com/wp-content/uploads/2020/08/Haleem-6.jpg",
         prices: {
             swiggy: 250,
             zomato: 240,
@@ -1271,7 +1271,7 @@ const foodData = [
         address: "Jayanagar, Bangalore",
         description: "Crispy dosa filled with spiced potatoes.",
         rating: 9.1,
-        image: "https://example.com/images/masala_dosa.jpg",
+        image: "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/masala-dosa-recipe.jpg",
         prices: {
             swiggy: 80,
             zomato: 75,
@@ -1287,7 +1287,7 @@ const foodData = [
         address: "Juhu, Mumbai",
         description: "Crispy puris filled with spicy water.",
         rating: 9.4,
-        image: "https://example.com/images/pani_puri.jpg",
+        image: "https://cdn1.foodviva.com/static-content/food-images/snacks-recipes/pani-puri/pani-puri.jpg",
         prices: {
             swiggy: 50,
             zomato: 48,
@@ -1303,7 +1303,7 @@ const foodData = [
         address: "Ghatkopar, Mumbai",
         description: "Steamed chickpea flour cake.",
         rating: 8.8,
-        image: "https://example.com/images/dhokla.jpg",
+        image: "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/12/khaman-dhokla-recipe.jpg",
         prices: {
             swiggy: 70,
             zomato: 65,
@@ -1319,7 +1319,7 @@ const foodData = [
         address: "Shamshabad, Hyderabad",
         description: "Spiced rice cooked with lentils.",
         rating: 9.2,
-        image: "https://example.com/images/bagara_rice.jpg",
+        image: "https://www.indianhealthyrecipes.com/wp-content/uploads/2024/06/bagara-rice-bagara-chawal.jpg",
         prices: {
             swiggy: 150,
             zomato: 145,
@@ -1335,7 +1335,7 @@ const foodData = [
         address: "Banjara Hills, Hyderabad",
         description: "Delicious buttery biscuits.",
         rating: 8.9,
-        image: "https://example.com/images/osmania_biscuit.jpg",
+        image: "https://images.slurrp.com/prodarticles/7sobijsjtts.webp",
         prices: {
             swiggy: 30,
             zomato: 28,
@@ -1351,7 +1351,7 @@ const foodData = [
         address: "Nungambakkam, Chennai",
         description: "Spicy chicken curry from Chettinad.",
         rating: 9.4,
-        image: "https://example.com/images/chettinad_chicken.jpg",
+        image: "https://th.bing.com/th/id/OIP.sqsLfM1BdwnyqDYUd-XU_QHaHa?rs=1&pid=ImgDetMain",
         prices: {
             swiggy: 320,
             zomato: 310,
@@ -1367,7 +1367,7 @@ const foodData = [
         address: "Salt Lake, Kolkata",
         description: "Spicy fish curry with rice.",
         rating: 9.1,
-        image: "https://example.com/images/fish_curry.jpg",
+        image: "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/10/fish-curry-recipe.jpg",
         prices: {
             swiggy: 220,
             zomato: 210,
@@ -1383,7 +1383,7 @@ const foodData = [
         address: "Hyderabad Central, Hyderabad",
         description: "Slow-cooked chicken in spices.",
         rating: 9.3,
-        image: "https://example.com/images/dum_ka_chicken.jpg",
+        image: "https://i0.wp.com/www.happyandharried.com/wp-content/uploads/2017/07/HYDERABADI-DUM-KA-MURGH-HYDERABADI-SPICY-CHICKEN-CURRY-HAPPYHARRIED.jpg",
         prices: {
             swiggy: 350,
             zomato: 340,
@@ -1399,7 +1399,7 @@ const foodData = [
         address: "Kodambakkam, Chennai",
         description: "Spicy curry made with tamarind.",
         rating: 8.6,
-        image: "https://example.com/images/kuzhambu.jpg",
+        image: "https://upload.wikimedia.org/wikipedia/commons/5/5b/Stuffed_Eggplant_curry.jpg",
         prices: {
             swiggy: 120,
             zomato: 115,
@@ -1415,7 +1415,7 @@ const foodData = [
         address: "Dwarka, Delhi",
         description: "Soft bread made with butter.",
         rating: 9.2,
-        image: "https://example.com/images/butter_naans.jpg",
+        image: "https://foodess.com/wp-content/uploads/2023/02/Butter-Naan-3.jpg",
         prices: {
             swiggy: 30,
             zomato: 28,
@@ -1431,7 +1431,7 @@ const foodData = [
         address: "Moti Nagar, Delhi",
         description: "Samosa topped with chutneys and yogurt.",
         rating: 9.0,
-        image: "https://example.com/images/samosa_chaat.jpg",
+        image: "https://masalaandchai.com/wp-content/uploads/2021/10/Samosa-Chaat-with-Chai.jpg",
         prices: {
             swiggy: 80,
             zomato: 75,
@@ -1447,7 +1447,7 @@ const foodData = [
         address: "Hauz Khas, Delhi",
         description: "Baked wheat balls served with mashed vegetables.",
         rating: 8.8,
-        image: "https://example.com/images/litti_chokha.jpg",
+        image: "https://www.secondrecipe.com/wp-content/uploads/2019/11/litti-chokha-1.jpg",
         prices: {
             swiggy: 150,
             zomato: 145,
@@ -1463,7 +1463,7 @@ const foodData = [
         address: "Lajpat Nagar, Delhi",
         description: "Chickpeas served with soft bread.",
         rating: 8.5,
-        image: "https://example.com/images/chole_kulche.jpg",
+        image: "https://th.bing.com/th/id/OIP.9B_20zzoCLjCN1d3d6AqEwHaHa?rs=1&pid=ImgDetMain",
         prices: {
             swiggy: 120,
             zomato: 115,
@@ -1479,7 +1479,7 @@ const foodData = [
         address: "Andheri, Mumbai",
         description: "Crispy puffed rice with chutneys.",
         rating: 9.0,
-        image: "https://example.com/images/bhel_puri.jpg",
+        image: "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/09/bhel-puri.jpg",
         prices: {
             swiggy: 50,
             zomato: 45,
@@ -1495,7 +1495,7 @@ const foodData = [
         address: "BTM Layout, Bangalore",
         description: "Eggs cooked in spicy curry.",
         rating: 8.7,
-        image: "https://example.com/images/egg_curry.jpg",
+        image: "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/04/egg-curry-recipe.jpg",
         prices: {
             swiggy: 140,
             zomato: 135,
@@ -1511,7 +1511,7 @@ const foodData = [
         address: "Pallavaram, Chennai",
         description: "Spiced Indian tea.",
         rating: 8.9,
-        image: "https://example.com/images/masala_tea.jpg",
+        image: "https://shivanilovesfood.com/wp-content/uploads/2022/08/Chai-6.jpg",
         prices: {
             swiggy: 20,
             zomato: 18,
@@ -1527,7 +1527,7 @@ const foodData = [
         address: "Jubilee Hills, Hyderabad",
         description: "Green gram dosa.",
         rating: 8.6,
-        image: "https://example.com/images/pesarattu.jpg",
+        image: "https://4.bp.blogspot.com/-OrrkjyYugU0/Wi8_rTTcO3I/AAAAAAAASyE/dFoHm59-H0oODz8OcZa6i4eZmrMrnDwCgCLcBGAs/s1600/Pesarattu%2B2.jpg",
         prices: {
             swiggy: 80,
             zomato: 75,
@@ -1543,7 +1543,7 @@ const foodData = [
         address: "Vasant Kunj, Delhi",
         description: "Grilled paneer marinated in spices.",
         rating: 9.2,
-        image: "https://example.com/images/paneer_tikka.jpg",
+        image: "https://www.cookwithmanali.com/wp-content/uploads/2015/07/Restaurant-Style-Recipe-Paneer-Tikka-500x500.jpg",
         prices: {
             swiggy: 220,
             zomato: 210,
@@ -1559,7 +1559,7 @@ const foodData = [
         address: "Borivali, Mumbai",
         description: "Spicy potato fritter in a bun.",
         rating: 9.1,
-        image: "https://example.com/images/vada_pav.jpg",
+        image: "https://ministryofcurry.com/wp-content/uploads/2024/06/vada-pav-3.jpg",
         prices: {
             swiggy: 50,
             zomato: 48,
@@ -1575,7 +1575,7 @@ const foodData = [
         address: "Whitefield, Bangalore",
         description: "Pizza loaded with cheese.",
         rating: 9.4,
-        image: "https://example.com/images/cheese_burst_pizza.jpg",
+        image: "https://images.ctfassets.net/j8tkpy1gjhi5/5OvVmigx6VIUsyoKz1EHUs/b8173b7dcfbd6da341ce11bcebfa86ea/Salami-pizza-hero.jpg",
         prices: {
             swiggy: 500,
             zomato: 480,
@@ -1591,7 +1591,7 @@ const foodData = [
         address: "Thane, Mumbai",
         description: "Crispy puris filled with flavored water.",
         rating: 9.0,
-        image: "https://example.com/images/pani_puri_2.jpg",
+        image: "https://3.bp.blogspot.com/-b6XSdmFfepg/UXcCBAJ1lII/AAAAAAAABSs/qhnTOzePZ84/s1600/_DSC5240.JPG",
         prices: {
             swiggy: 40,
             zomato: 38,
@@ -1607,7 +1607,7 @@ const foodData = [
         address: "Andheri, Mumbai",
         description: "Cheesy margherita pizza.",
         rating: 9.0,
-        image: "https://example.com/images/pizza1.jpg",
+        image: "https://assets.teenvogue.com/photos/5ab665d06d36ed4396878433/master/pass/GettyImages-519526540.jpg",
         prices: {
             swiggy: 350,
             zomato: 340,
@@ -1623,7 +1623,7 @@ const foodData = [
         address: "Bandra, Mumbai",
         description: "Classic chicken burger.",
         rating: 8.5,
-        image: "https://example.com/images/burger1.jpg",
+        image: "https://www.tasteofhome.com/wp-content/uploads/2018/01/exps28800_UG143377D12_18_1b_RMS.jpg",
         prices: {
             swiggy: 150,
             zomato: 145,
@@ -1639,7 +1639,7 @@ const foodData = [
         address: "Dadar, Mumbai",
         description: "Steamed veg momos with sauce.",
         rating: 9.2,
-        image: "https://example.com/images/momos1.jpg",
+        image: "https://static.toiimg.com/photo/75146877.cms",
         prices: {
             swiggy: 120,
             zomato: 115,
@@ -1655,7 +1655,7 @@ const foodData = [
         address: "Versova, Mumbai",
         description: "Crispy golden french fries.",
         rating: 8.7,
-        image: "https://example.com/images/fries1.jpg",
+        image: "https://www.recipetineats.com/tachyon/2022/09/Fries-with-rosemary-salt_1.jpg",
         prices: {
             swiggy: 80,
             zomato: 75,
@@ -1671,7 +1671,7 @@ const foodData = [
         address: "Juhu, Mumbai",
         description: "Creamy Alfredo pasta.",
         rating: 9.1,
-        image: "https://example.com/images/pasta1.jpg",
+        image: "https://www.modernhoney.com/wp-content/uploads/2018/08/Fettuccine-Alfredo-Recipe-1.jpg",
         prices: {
             swiggy: 300,
             zomato: 290,
@@ -1687,7 +1687,7 @@ const foodData = [
         address: "Bandra, Mumbai",
         description: "Stir-fried vegetable noodles.",
         rating: 8.8,
-        image: "https://example.com/images/noodles1.jpg",
+        image: "https://thewoksoflife.com/wp-content/uploads/2020/10/chicken-mei-fun-15-599x599.jpg",
         prices: {
             swiggy: 180,
             zomato: 175,
@@ -1703,7 +1703,7 @@ const foodData = [
         address: "Khar, Mumbai",
         description: "Hot and sour soup.",
         rating: 8.4,
-        image: "https://example.com/images/soup1.jpg",
+        image: "https://www.cookingcarnival.com/wp-content/uploads/2021/09/cropped-Veg-manchow-soup-2.jpg",
         prices: {
             swiggy: 60,
             zomato: 55,
@@ -1719,7 +1719,7 @@ const foodData = [
         address: "Ghatkopar, Mumbai",
         description: "Crispy noodles mixed with veggies.",
         rating: 8.9,
-        image: "https://example.com/images/chinese_bhel1.jpg",
+        image: "https://i.ytimg.com/vi/4MZbSm5Hgdg/maxresdefault.jpg",
         prices: {
             swiggy: 120,
             zomato: 115,
@@ -1735,7 +1735,7 @@ const foodData = [
         address: "Borivali, Mumbai",
         description: "Delicious veg manchurian balls.",
         rating: 9.0,
-        image: "https://example.com/images/manchurian1.jpg",
+        image: "https://www.indianhealthyrecipes.com/wp-content/uploads/2019/04/chicken-manchurian.webp",
         prices: {
             swiggy: 150,
             zomato: 145,
@@ -1751,7 +1751,7 @@ const foodData = [
         address: "Thane, Mumbai",
         description: "Crispy puris filled with flavored water.",
         rating: 9.0,
-        image: "https://example.com/images/pani_puri1.jpg",
+        image: "https://th.bing.com/th/id/OIP.-Al0WWo7AC2Ou-nxXzhw2gAAAA?rs=1&pid=ImgDetMain",
         prices: {
             swiggy: 40,
             zomato: 38,
@@ -1767,7 +1767,7 @@ const foodData = [
         address: "Malad, Mumbai",
         description: "Crispy potato samosas.",
         rating: 9.3,
-        image: "https://example.com/images/samosa1.jpg",
+        image: "https://getinfolist.com/wp-content/uploads/2017/09/Vegetable-Samosas-LEAD-7.jpg",
         prices: {
             swiggy: 30,
             zomato: 28,
@@ -1783,7 +1783,7 @@ const foodData = [
         address: "Lokhandwala, Mumbai",
         description: "Tasty aloo chaat.",
         rating: 8.6,
-        image: "https://example.com/images/chaat1.jpg",
+        image: "https://cdn.cdnparenting.com/articles/2019/01/18164219/1133202113-H-1024x700.jpg",
         prices: {
             swiggy: 50,
             zomato: 48,
@@ -1799,7 +1799,7 @@ const foodData = [
         address: "Connaught Place, Delhi",
         description: "Delicious pepperoni pizza.",
         rating: 9.1,
-        image: "https://example.com/images/pizza2.jpg",
+        image: "https://kauveryhospital.com/blog/wp-content/uploads/2021/04/pizza-5179939_960_720.jpg",
         prices: {
             swiggy: 400,
             zomato: 390,
@@ -1815,7 +1815,7 @@ const foodData = [
         address: "Chandni Chowk, Delhi",
         description: "Punjabi-style chicken burger.",
         rating: 8.5,
-        image: "https://example.com/images/burger2.jpg",
+        image: "https://idealamusementsoftware.com/wp-content/uploads/sites/2/2021/04/front-view-fresh-burger-fries-plate.jpg",
         prices: {
             swiggy: 160,
             zomato: 155,
@@ -1831,7 +1831,7 @@ const foodData = [
         address: "South Delhi, Delhi",
         description: "Spicy schezwan momos.",
         rating: 9.3,
-        image: "https://example.com/images/momos2.jpg",
+        image: "https://cdn3.tmbi.com/secure/RMS/attachments/37/1200x1200/exps28800_UG143377D12_18_1b_RMS.jpg",
         prices: {
             swiggy: 130,
             zomato: 125,
@@ -1847,7 +1847,7 @@ const foodData = [
         address: "Dwarka, Delhi",
         description: "Seasoned french fries.",
         rating: 8.8,
-        image: "https://example.com/images/fries2.jpg",
+        image: "https://www.dinneratthezoo.com/wp-content/uploads/2019/12/homemade-french-fries-5.jpg",
         prices: {
             swiggy: 90,
             zomato: 85,
@@ -1863,7 +1863,7 @@ const foodData = [
         address: "Gurgaon, Delhi",
         description: "Pasta in creamy pesto sauce.",
         rating: 9.2,
-        image: "https://example.com/images/pasta2.jpg",
+        image: "https://www.recipetineats.com/wp-content/uploads/2019/02/Pesto-Pasta_2-1.jpg?resize=85",
         prices: {
             swiggy: 320,
             zomato: 310,
@@ -1879,7 +1879,7 @@ const foodData = [
         address: "Noida, Delhi",
         description: "Hakka noodles with vegetables.",
         rating: 8.6,
-        image: "https://example.com/images/noodles2.jpg",
+        image: "https://www.whiskaffair.com/wp-content/uploads/2020/03/Hakka-Noodles-2-3.jpg",
         prices: {
             swiggy: 170,
             zomato: 165,
@@ -1895,7 +1895,7 @@ const foodData = [
         address: "Lajpat Nagar, Delhi",
         description: "Hot corn soup.",
         rating: 8.4,
-        image: "https://example.com/images/soup2.jpg",
+        image: "https://www.cookingcarnival.com/wp-content/uploads/2021/09/Veg-manchow-soup-768x1152.jpg",
         prices: {
             swiggy: 70,
             zomato: 65,
@@ -1911,7 +1911,7 @@ const foodData = [
         address: "Saket, Delhi",
         description: "Crispy bhel with Chinese flavors.",
         rating: 8.9,
-        image: "https://example.com/images/chinese_bhel2.jpg",
+        image: "https://th.bing.com/th/id/OIP.LdbFtLEVY-ZSyedi_i7vyQHaE8?rs=1&pid=ImgDetMain",
         prices: {
             swiggy: 130,
             zomato: 125,
@@ -1927,7 +1927,7 @@ const foodData = [
         address: "Karol Bagh, Delhi",
         description: "Veg manchurian in gravy.",
         rating: 9.0,
-        image: "https://example.com/images/manchurian2.jpg",
+        image: "https://thenandnow.space/wp-content/uploads/2023/12/0_3_webp_7568.jpg",
         prices: {
             swiggy: 160,
             zomato: 155,
@@ -1943,7 +1943,7 @@ const foodData = [
         address: "Rajouri Garden, Delhi",
         description: "Spicy puris with tamarind water.",
         rating: 9.1,
-        image: "https://example.com/images/pani_puri2.jpg",
+        image: "https://fandbrecipes.com/wp-content/uploads/2021/01/Maggi-Manchurian-Recipe-How-to-Make-Maggi-Manchurian-2048x1459.jpg",
         prices: {
             swiggy: 45,
             zomato: 42,
@@ -1959,7 +1959,7 @@ const foodData = [
         address: "Pitampura, Delhi",
         description: "Crispy samosas filled with spicy potatoes.",
         rating: 9.4,
-        image: "https://example.com/images/samosa2.jpg",
+        image: "https://i.pinimg.com/736x/b0/80/a6/b080a6361eda45624d84ea4b2ddd7108.jpg",
         prices: {
             swiggy: 35,
             zomato: 33,
@@ -1975,7 +1975,7 @@ const foodData = [
         address: "Khan Market, Delhi",
         description: "Tangy dahi chaat.",
         rating: 8.7,
-        image: "https://example.com/images/chaat2.jpg",
+        image: "https://www.lifeberrys.com/img/article/dahi-aloo-chaat-1668504004-lb.jpg",
         prices: {
             swiggy: 55,
             zomato: 52,
@@ -1991,7 +1991,7 @@ const foodData = [
         address: "Salt Lake, Kolkata",
         description: "Veg supreme pizza.",
         rating: 9.0,
-        image: "https://example.com/images/pizza3.jpg",
+        image: "https://www.whiskaffair.com/wp-content/uploads/2020/03/Samosa-Chaat-1-3-720x720.jpg",
         prices: {
             swiggy: 370,
             zomato: 360,
@@ -2007,7 +2007,7 @@ const foodData = [
         address: "Howrah, Kolkata",
         description: "Double patty chicken burger.",
         rating: 8.5,
-        image: "https://example.com/images/burger3.jpg",
+        image: "https://www.kitchensanctuary.com/wp-content/uploads/2019/08/Crispy-Chicken-Burger-tall-FS-4512.jpg",
         prices: {
             swiggy: 155,
             zomato: 150,
@@ -2023,7 +2023,7 @@ const foodData = [
         address: "Bhowanipore, Kolkata",
         description: "Steamed chicken momos.",
         rating: 9.1,
-        image: "https://example.com/images/momos3.jpg",
+        image: "https://1.bp.blogspot.com/-xaeLKD4vj1A/YCi3eo5T85I/AAAAAAAAAHA/D6C1A6EHdQIFkTqYpPvQoM6ffYdmghogQCLcBGAsYHQ/s1276/IMG_20210214_110659.jpg",
         prices: {
             swiggy: 125,
             zomato: 120,
@@ -2039,7 +2039,7 @@ const foodData = [
         address: "Park Street, Kolkata",
         description: "Loaded cheese fries.",
         rating: 8.7,
-        image: "https://example.com/images/fries3.jpg",
+        image: "https://www.dinneratthezoo.com/wp-content/uploads/2019/12/cheese-fries-5.jpg",
         prices: {
             swiggy: 85,
             zomato: 80,
@@ -2055,7 +2055,7 @@ const foodData = [
         address: "Esplanade, Kolkata",
         description: "Baked pasta with cheese.",
         rating: 9.2,
-        image: "https://example.com/images/pasta3.jpg",
+        image: "https://th.bing.com/th/id/OIP.cAWtMo3cIGC4G4HRYN8V1QAAAA?rs=1&pid=ImgDetMain",
         prices: {
             swiggy: 310,
             zomato: 305,
@@ -2071,7 +2071,7 @@ const foodData = [
         address: "Behala, Kolkata",
         description: "Veg Hakka noodles.",
         rating: 8.6,
-        image: "https://example.com/images/noodles3.jpg",
+        image: "https://i2.wp.com/vegecravings.com/wp-content/uploads/2017/03/veg-hakka-noodles-recipe-with-step-by-step-instructions.jpg?fit=1838%2C1493&quality=65&strip=all&ssl=1",
         prices: {
             swiggy: 165,
             zomato: 160,
@@ -2087,7 +2087,7 @@ const foodData = [
         address: "Tollygunge, Kolkata",
         description: "Creamy tomato soup.",
         rating: 8.4,
-        image: "https://example.com/images/soup3.jpg",
+        image: "https://th.bing.com/th/id/OIP.1gvdJDQFGoHrprbJF0egEAAAAA?rs=1&pid=ImgDetMain",
         prices: {
             swiggy: 65,
             zomato: 60,
@@ -2103,7 +2103,7 @@ const foodData = [
         address: "Dum Dum, Kolkata",
         description: "Tangy Chinese bhel.",
         rating: 8.9,
-        image: "https://example.com/images/chinese_bhel3.jpg",
+        image: "https://m.media-amazon.com/images/S/aplus-media/sc/cb1102d7-503d-48fe-b881-330fa73dfe88.__CR0,381,1000,619_PT0_SX970_V1___.jpg",
         prices: {
             swiggy: 125,
             zomato: 120,
@@ -2119,7 +2119,7 @@ const foodData = [
         address: "Kalighat, Kolkata",
         description: "Crispy veg manchurian.",
         rating: 9.0,
-        image: "https://example.com/images/manchurian3.jpg",
+        image: "https://1.bp.blogspot.com/-VCkjsS1Tfmo/XgzLILEh5oI/AAAAAAAAACA/Yg7TKYf6VYUlNm33vg35es80Zq3yRMJLwCLcBGAsYHQ/s1600/manchuri.jpg",
         prices: {
             swiggy: 150,
             zomato: 145,
@@ -2135,7 +2135,7 @@ const foodData = [
         address: "Garia, Kolkata",
         description: "Delicious pani puris.",
         rating: 9.1,
-        image: "https://example.com/images/pani_puri3.jpg",
+        image: "https://picfiles.alphacoders.com/256/thumb-1920-256646.jpg",
         prices: {
             swiggy: 45,
             zomato: 42,
@@ -2151,7 +2151,7 @@ const foodData = [
         address: "Shyambazar, Kolkata",
         description: "Spicy samosas with chutney.",
         rating: 9.4,
-        image: "https://example.com/images/samosa3.jpg",
+        image: "https://www.vegrecipesofindia.com/wp-content/uploads/2013/11/samosa-0-500x500.jpg",
         prices: {
             swiggy: 32,
             zomato: 30,
@@ -2167,7 +2167,7 @@ const foodData = [
         address: "BBD Bagh, Kolkata",
         description: "Aloo chaat with yogurt.",
         rating: 8.7,
-        image: "https://example.com/images/chaat3.jpg",
+        image: "https://i0.wp.com/sandhyahariharan.co.uk/wp-content/uploads/2018/10/dahi-aloo-tikki-chaat-closeup-1-of-1.jpg?fit=700%2C1050&ssl=1",
         prices: {
             swiggy: 52,
             zomato: 50,
@@ -2183,7 +2183,7 @@ const foodData = [
         address: "Indiranagar, Bangalore",
         description: "Classic vegetarian pizza.",
         rating: 9.2,
-        image: "https://example.com/images/pizza4.jpg",
+        image: "https://im1.dineout.co.in/images/uploads/restaurant/sharpen/4/n/z/p4546-1646054806621ccd96b8198.jpg?tr=tr:n-xlarge",
         prices: {
             swiggy: 360,
             zomato: 350,
@@ -2199,7 +2199,7 @@ const foodData = [
         address: "MG Road, Bangalore",
         description: "Juicy double cheeseburger.",
         rating: 8.6,
-        image: "https://example.com/images/burger4.jpg",
+        image: "https://www.kitchensanctuary.com/wp-content/uploads/2021/05/Double-Cheeseburger-wide-FS-and-foodporn-55.jpg",
         prices: {
             swiggy: 175,
             zomato: 170,
@@ -2215,7 +2215,7 @@ const foodData = [
         address: "Jayanagar, Bangalore",
         description: "Steamed paneer momos.",
         rating: 9.1,
-        image: "https://example.com/images/momos4.jpg",
+        image: "https://www.zippyfeed.com/wp-content/uploads/2023/02/Peri-Paneer-Momo-1980x1320-1.jpg",
         prices: {
             swiggy: 125,
             zomato: 120,
@@ -2231,7 +2231,7 @@ const foodData = [
         address: "Koramangala, Bangalore",
         description: "Crispy loaded fries.",
         rating: 8.8,
-        image: "https://example.com/images/fries4.jpg",
+        image: "https://www.recipetineats.com/wp-content/uploads/2022/09/Seasoning-french-fries.jpg",
         prices: {
             swiggy: 90,
             zomato: 85,
@@ -2247,7 +2247,7 @@ const foodData = [
         address: "Whitefield, Bangalore",
         description: "Baked mac and cheese.",
         rating: 9.3,
-        image: "https://example.com/images/pasta4.jpg",
+        image: "https://th.bing.com/th/id/OIP.A2e5hN4d0bV_i5-LuGcrxgHaLH?rs=1&pid=ImgDetMain",
         prices: {
             swiggy: 330,
             zomato: 320,
@@ -2263,7 +2263,7 @@ const foodData = [
         address: "HSR Layout, Bangalore",
         description: "Vegetable chow mein.",
         rating: 8.5,
-        image: "https://example.com/images/noodles4.jpg",
+        image: "https://www.cookingclassy.com/wp-content/uploads/2019/01/chow-mein-6-768x1152.jpg",
         prices: {
             swiggy: 165,
             zomato: 160,
@@ -2279,7 +2279,7 @@ const foodData = [
         address: "BTM Layout, Bangalore",
         description: "Spicy corn soup.",
         rating: 8.4,
-        image: "https://example.com/images/soup4.jpg",
+        image: "https://th.bing.com/th/id/OIP.yJ4TzVjYUwIiTgwh5SqEhAHaE8?rs=1&pid=ImgDetMain",
         prices: {
             swiggy: 70,
             zomato: 65,
@@ -2295,7 +2295,7 @@ const foodData = [
         address: "Malleshwaram, Bangalore",
         description: "Crispy Chinese bhel with tangy sauce.",
         rating: 9.0,
-        image: "https://example.com/images/chinese_bhel4.jpg",
+        image: "https://th.bing.com/th/id/OIP.epZ4nkbrAcmjrmG4qc7XJQHaHa?w=585&h=585&rs=1&pid=ImgDetMain",
         prices: {
             swiggy: 130,
             zomato: 125,
@@ -2311,7 +2311,7 @@ const foodData = [
         address: "Frazer Town, Bangalore",
         description: "Veg manchurian in spicy sauce.",
         rating: 8.9,
-        image: "https://example.com/images/manchurian4.jpg",
+        image: "https://www.awesomecuisine.com/wp-content/uploads/2018/07/cabbage_manchurian_dry.jpg",
         prices: {
             swiggy: 160,
             zomato: 155,
@@ -2327,7 +2327,7 @@ const foodData = [
         address: "MG Road, Bangalore",
         description: "Tangy pani puris.",
         rating: 9.2,
-        image: "https://example.com/images/pani_puri4.jpg",
+        image: "https://thumbs.dreamstime.com/b/pani-puri-golgappa-made-fine-flour-other-spices-panipuri-favorite-food-indians-pakisthani-indian-breakfast-303394426.jpg",
         prices: {
             swiggy: 45,
             zomato: 42,
@@ -2343,7 +2343,7 @@ const foodData = [
         address: "Indiranagar, Bangalore",
         description: "Spicy samosas with mint chutney.",
         rating: 9.3,
-        image: "https://example.com/images/samosa4.jpg",
+        image: "https://dwellbymichelle.com/wp-content/uploads/2021/03/DWELL-Samosa-Recipe.jpeg",
         prices: {
             swiggy: 35,
             zomato: 33,
@@ -2359,7 +2359,7 @@ const foodData = [
         address: "Koramangala, Bangalore",
         description: "Crispy papri chaat.",
         rating: 8.6,
-        image: "https://example.com/images/chaat4.jpg",
+        image: "https://www.spiceupthecurry.com/wp-content/uploads/2015/07/papdi-chaat-1-1024x1536.jpg",
         prices: {
             swiggy: 50,
             zomato: 48,
@@ -2375,7 +2375,7 @@ const foodData = [
         address: "Banjara Hills, Hyderabad",
         description: "Veg pizza with fresh toppings.",
         rating: 9.2,
-        image: "https://example.com/images/pizza5.jpg",
+        image: "https://www.twopeasandtheirpod.com/wp-content/uploads/2021/03/Veggie-Pizza-8.jpg",
         prices: {
             swiggy: 380,
             zomato: 370,
@@ -2391,7 +2391,7 @@ const foodData = [
         address: "Jubilee Hills, Hyderabad",
         description: "Grilled chicken burger.",
         rating: 8.7,
-        image: "https://example.com/images/burger5.jpg",
+        image: "https://3.bp.blogspot.com/-uGivZMqGDCA/VNSfJ8JfOKI/AAAAAAAAJVI/fQ1cvdR4PtU/s1600/Grilled%2BChicken%2BBurger%2BRecipe1.jpg",
         prices: {
             swiggy: 165,
             zomato: 160,
@@ -2407,7 +2407,7 @@ const foodData = [
         address: "Gachibowli, Hyderabad",
         description: "Spicy veg momos.",
         rating: 9.3,
-        image: "https://example.com/images/momos5.jpg",
+        image: "https://www.yumcurry.com/wp-content/uploads/2021/05/chilli-garlic-momos-feature-image.jpg",
         prices: {
             swiggy: 130,
             zomato: 125,
@@ -2423,7 +2423,7 @@ const foodData = [
         address: "Secunderabad, Hyderabad",
         description: "Crunchy french fries.",
         rating: 8.8,
-        image: "https://example.com/images/fries5.jpg",
+        image: "https://th.bing.com/th/id/OIP.hQZFm1oNnXzADz6VyIlbAAHaHa?rs=1&pid=ImgDetMain",
         prices: {
             swiggy: 85,
             zomato: 80,
@@ -2439,7 +2439,7 @@ const foodData = [
         address: "Hitech City, Hyderabad",
         description: "Creamy pasta primavera.",
         rating: 9.0,
-        image: "https://example.com/images/pasta5.jpg",
+        image: "https://www.cookingclassy.com/wp-content/uploads/2018/09/pasta-primavera-2.jpg",
         prices: {
             swiggy: 320,
             zomato: 310,
@@ -2455,7 +2455,7 @@ const foodData = [
         address: "Madhapur, Hyderabad",
         description: "Spicy vegetable noodles.",
         rating: 8.6,
-        image: "https://example.com/images/noodles5.jpg",
+        image: "https://www.thechunkychef.com/wp-content/uploads/2014/12/Spicy-Thai-Noodles-5.jpg",
         prices: {
             swiggy: 170,
             zomato: 165,
@@ -2471,7 +2471,7 @@ const foodData = [
         address: "Dilsukhnagar, Hyderabad",
         description: "Hot and sour soup.",
         rating: 8.4,
-        image: "https://example.com/images/soup5.jpg",
+        image: "https://www.marionskitchen.com/wp-content/uploads/2019/02/10-minute-Hot-Sour-Soup-3-e1552634823281.jpg",
         prices: {
             swiggy: 70,
             zomato: 65,
@@ -2487,7 +2487,7 @@ const foodData = [
         address: "LB Nagar, Hyderabad",
         description: "Spicy Chinese bhel.",
         rating: 8.8,
-        image: "https://example.com/images/chinese_bhel5.jpg",
+        image: "https://vanitascorner.com/wp-content/uploads/2019/04/Chinese-bhel.jpg",
         prices: {
             swiggy: 125,
             zomato: 120,
@@ -2503,7 +2503,7 @@ const foodData = [
         address: "Banjara Hills, Hyderabad",
         description: "Veg manchurian in sauce.",
         rating: 9.0,
-        image: "https://example.com/images/manchurian5.jpg",
+        image: "https://i.ytimg.com/vi/2-uu7l3Qwuo/maxresdefault.jpg",
         prices: {
             swiggy: 165,
             zomato: 160,
@@ -2519,7 +2519,7 @@ const foodData = [
         address: "Madhapur, Hyderabad",
         description: "Pani puris with tangy water.",
         rating: 9.1,
-        image: "https://example.com/images/pani_puri5.jpg",
+        image: "https://picfiles.alphacoders.com/256/thumb-1920-256646.jpg",
         prices: {
             swiggy: 45,
             zomato: 42,
@@ -2535,7 +2535,7 @@ const foodData = [
         address: "Gachibowli, Hyderabad",
         description: "Spicy samosas with chutney.",
         rating: 9.4,
-        image: "https://example.com/images/samosa5.jpg",
+        image: "https://recipes.timesofindia.com/photo/61050397.cms",
         prices: {
             swiggy: 35,
             zomato: 33,
@@ -2551,7 +2551,7 @@ const foodData = [
         address: "Hitech City, Hyderabad",
         description: "Tangy chaat with yogurt.",
         rating: 8.7,
-        image: "https://example.com/images/chaat5.jpg",
+        image: "https://www.lifeberrys.com/img/article/dahi-aloo-chaat-1668504004-lb.jpg",
         prices: {
             swiggy: 52,
             zomato: 50,
@@ -2567,7 +2567,7 @@ const foodData = [
         address: "T. Nagar, Chennai",
         description: "Delicious cheese pizza with fresh toppings.",
         rating: 9.0,
-        image: "https://example.com/images/pizza6.jpg",
+        image: "https://www.travelertrails.com/wp-content/uploads/2022/11/Pizza-Lahore-7-2.jpg",
         prices: {
             swiggy: 360,
             zomato: 350,
@@ -2583,7 +2583,7 @@ const foodData = [
         address: "Anna Nagar, Chennai",
         description: "Classic burger with crispy fries.",
         rating: 8.8,
-        image: "https://example.com/images/burger6.jpg",
+        image: "https://th.bing.com/th/id/OIP.bB07cFwoB_0JgYw8V2t6XwHaEo?rs=1&pid=ImgDetMain",
         prices: {
             swiggy: 160,
             zomato: 155,
@@ -2599,7 +2599,7 @@ const foodData = [
         address: "Mylapore, Chennai",
         description: "Steamed veg momos served with spicy chutney.",
         rating: 9.2,
-        image: "https://example.com/images/momos6.jpg",
+        image: "https://b.zmtcdn.com/data/pictures/chains/5/19836755/ef5620ae7fd5520e20dd35fddb9f3633.jpg",
         prices: {
             swiggy: 120,
             zomato: 115,
@@ -2615,7 +2615,7 @@ const foodData = [
         address: "Velachery, Chennai",
         description: "Crispy French fries with a hint of seasoning.",
         rating: 8.6,
-        image: "https://example.com/images/fries6.jpg",
+        image: "https://wiglafjournal.com/wp-content/uploads/ketchup_sm-1024x694-1.jpg",
         prices: {
             swiggy: 90,
             zomato: 85,
@@ -2631,7 +2631,7 @@ const foodData = [
         address: "Nungambakkam, Chennai",
         description: "Creamy alfredo pasta with garlic bread.",
         rating: 9.1,
-        image: "https://example.com/images/pasta6.jpg",
+        image: "https://3.bp.blogspot.com/-sD6jGjDvp9Q/WjNdC0kJy5I/AAAAAAAAB_8/EANdloT_vYMuL9DRs43yTwKeSKRvslorACLcBGAs/s1600/VeganAlfredo_DT.jpg",
         prices: {
             swiggy: 310,
             zomato: 300,
@@ -2647,7 +2647,7 @@ const foodData = [
         address: "Kotturpuram, Chennai",
         description: "Spicy veg noodles with crispy vegetables.",
         rating: 8.5,
-        image: "https://example.com/images/noodles6.jpg",
+        image: "https://th.bing.com/th/id/OIP.WO6VRoAnWHd9dHelUUcHzAHaJ4?rs=1&pid=ImgDetMain",
         prices: {
             swiggy: 160,
             zomato: 155,
@@ -2663,7 +2663,7 @@ const foodData = [
         address: "Adyar, Chennai",
         description: "Hot and sour soup with fresh herbs.",
         rating: 8.4,
-        image: "https://example.com/images/soup6.jpg",
+        image: "https://www.mommalew.com/wp-content/uploads/2020/01/GFMinestrone_vertical4-718x1024.jpg",
         prices: {
             swiggy: 75,
             zomato: 70,
@@ -2679,7 +2679,7 @@ const foodData = [
         address: "Thiruvanmiyur, Chennai",
         description: "Tangy Chinese bhel with a mix of flavors.",
         rating: 9.0,
-        image: "https://example.com/images/chinese_bhel6.jpg",
+        image: "https://c.ndtvimg.com/2023-07/odcvrucg_chinese-bhel_625x300_31_July_23.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=675",
         prices: {
             swiggy: 120,
             zomato: 115,
@@ -2695,7 +2695,7 @@ const foodData = [
         address: "Tambaram, Chennai",
         description: "Veg manchurian in spicy sauce.",
         rating: 9.3,
-        image: "https://example.com/images/manchurian6.jpg",
+        image: "https://rasoirani.com/wp-content/uploads/2019/12/crispy-gobi-manchurian-recipe.jpg",
         prices: {
             swiggy: 150,
             zomato: 145,
@@ -2711,7 +2711,7 @@ const foodData = [
         address: "Kodambakkam, Chennai",
         description: "Crispy puris filled with spicy water.",
         rating: 9.2,
-        image: "https://example.com/images/pani_puri6.jpg",
+        image: "https://i.cdn.newsbytesapp.com/images/l198_4811593065322.jpg",
         prices: {
             swiggy: 40,
             zomato: 38,
@@ -2727,7 +2727,7 @@ const foodData = [
         address: "T. Nagar, Chennai",
         description: "Crispy samosas with tangy chutney.",
         rating: 9.1,
-        image: "https://example.com/images/samosa6.jpg",
+        image: "https://www.unileverfoodsolutions.com.ph/dam/global-ufs/mcos/SEA/calcmenu/recipes/PH-recipes/appetisers/vegetable-samosa/vegetable-samosa-main.jpg",
         prices: {
             swiggy: 35,
             zomato: 33,
@@ -2743,7 +2743,7 @@ const foodData = [
         address: "Anna Nagar, Chennai",
         description: "Delicious chaat with fresh ingredients.",
         rating: 8.9,
-        image: "https://example.com/images/chaat6.jpg",
+        image: "https://www.crazymasalafood.com/wp-content/images/bhel-3.jpg",
         prices: {
             swiggy: 50,
             zomato: 48,
