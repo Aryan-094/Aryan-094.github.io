@@ -1185,13 +1185,13 @@ const foodData = [
     },
     {
         id: 75,
-        name: "Litti Chokha",
-        vendor: "Bihar Kitchen",
+        name: "Fish Curry Rice",
+        vendor: "Bengali Style",
         location: "Kolkata",
         address: "Kolkata Downtown, Kolkata",
-        description: "Baked wheat balls served with mashed vegetables.",
+        description: "Fried Fish with gravy served with rice.",
         rating: 9.0,
-        image: "https://i0.wp.com/onewholesomemeal.com/wp-content/uploads/2020/01/Litti-Chokha.jpg?fit=580%2C725&ssl=1",
+        image: "https://i.pinimg.com/736x/0a/ad/41/0aad41c0bf5348eedad2cd453ee58f7d.jpg",
         prices: {
             swiggy: 160,
             zomato: 155,
