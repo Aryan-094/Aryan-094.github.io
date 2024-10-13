@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.4f5e44ca.css",
-    "main.js": "/static/js/main.c33d4523.js",
+    "main.js": "/static/js/main.174b79b4.js",
     "static/js/453.3afe694a.chunk.js": "/static/js/453.3afe694a.chunk.js",
     "static/media/Radhika.jpg": "/static/media/Radhika.4b638e5596f9a4d331cf.jpg",
     "static/media/zomato_logo.png": "/static/media/zomato_logo.f59ebc7158012c8ea390.png",
@@ -14,11 +14,11 @@
     "static/media/eatsure_logo.png": "/static/media/eatsure_logo.3897faf182a174daff58.png",
     "index.html": "/index.html",
     "main.4f5e44ca.css.map": "/static/css/main.4f5e44ca.css.map",
-    "main.c33d4523.js.map": "/static/js/main.c33d4523.js.map",
+    "main.174b79b4.js.map": "/static/js/main.174b79b4.js.map",
     "453.3afe694a.chunk.js.map": "/static/js/453.3afe694a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4f5e44ca.css",
-    "static/js/main.c33d4523.js"
+    "static/js/main.174b79b4.js"
   ]
 }
