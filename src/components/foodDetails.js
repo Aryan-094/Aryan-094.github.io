@@ -22,6 +22,16 @@ const FoodDetail = () => {
     return <div>Food item not found.</div>;
   }
 
+  // Function to format the name for the Zomato URL
+  const formatZomatoName = (name) => {
+    return name.toLowerCase().replace(/\s+/g, '-');
+  };
+
+  // Construct URLs with location
+  const getSwiggyUrl = () => `https://www.swiggy.com/search?query=${encodeURIComponent(foodItem.name)}`;
+  const getZomatoUrl = () => `https://www.zomato.com/${encodeURIComponent(foodItem.location)}/delivery/dish-${formatZomatoName(foodItem.name)}`;
+  const getMagicpinUrl = () => `https://magicpin.in/${encodeURIComponent(foodItem.location)}/search?query=${encodeURIComponent(foodItem.name)}`;
+
   return (
     <div className="bg-gray-900 min-h-screen text-white p-8">
       <button onClick={() => navigate(-1)} className="flex items-center mb-4 text-lg text-gray-300 hover:text-red-500 transition duration-300">
@@ -41,19 +51,19 @@ const FoodDetail = () => {
       <h3 className="text-2xl font-semibold mt-6">Price Comparisons:</h3>
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 mt-4 justify-center">
         {foodItem.prices.swiggy && (
-          <a href="https://www.swiggy.com" target="_blank" rel="noopener noreferrer" className="flex items-center">
+          <a href={getSwiggyUrl()} target="_blank" rel="noopener noreferrer" className="flex items-center">
             <img src={swiggyLogo} alt="Swiggy" className="w-14 h-14 md:w-16 md:h-16 mr-2" />
             <span className="text-sm md:text-base">Swiggy: ₹{foodItem.prices.swiggy}</span>
           </a>
         )}
         {foodItem.prices.zomato && (
-          <a href="https://www.zomato.com" target="_blank" rel="noopener noreferrer" className="flex items-center">
+          <a href={getZomatoUrl()} target="_blank" rel="noopener noreferrer" className="flex items-center">
             <img src={zomatoLogo} alt="Zomato" className="w-14 h-14 md:w-16 md:h-16 mr-2" />
             <span className="text-sm md:text-base">Zomato: ₹{foodItem.prices.zomato}</span>
           </a>
         )}
         {foodItem.prices.magicpin && (
-          <a href="https://www.magicpin.in" target="_blank" rel="noopener noreferrer" className="flex items-center">
+          <a href={getMagicpinUrl()} target="_blank" rel="noopener noreferrer" className="flex items-center">
             <img src={magicpinLogo} alt="Magicpin" className="w-14 h-14 md:w-16 md:h-16 mr-2" />
             <span className="text-sm md:text-base">Magicpin: ₹{foodItem.prices.magicpin}</span>
           </a>
