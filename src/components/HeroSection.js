@@ -11,7 +11,7 @@ const HeroSection = () => {
 
       <div className="relative text-center py-10 sm:py-20 px-4 flex flex-col items-center justify-center h-full">
         <h1 className="text-3xl sm:text-5xl font-bold mb-4 z-10 text-white">
-          Welcome to FoodFinder!
+          Welcome to Zayaka Bazaar!
         </h1>
         <p className="text-base sm:text-xl text-gray-300 mb-6 z-10">
           We're here to help you save your money.
